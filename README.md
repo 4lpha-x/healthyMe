@@ -11,4 +11,4 @@ Commands:
 
 Now it'll remind you on time to time what you've to do and also will log your exercise and water time.
 <br>
-This is specifically made for all programmers ❤
+This is specifically made for all the programmers ❤
