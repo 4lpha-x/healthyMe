@@ -2,8 +2,6 @@ from pygame import mixer
 import time
 import datetime
 
-print("Love from Alpha! Specially made for our Harry bhai <3")
-
 def playmusic(file):
     mixer.init()
     mixer.music.load(file)
